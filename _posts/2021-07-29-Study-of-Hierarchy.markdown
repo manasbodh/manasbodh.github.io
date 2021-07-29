@@ -85,7 +85,7 @@ Something is obviously very wrong if people are discussing sexist implications o
 
 ## Successful Aging
 
-![Schematic representation of Successful Aging](successful_aging.svg)
+![Schematic representation of Successful Aging](https://github.com/manasbodh/manasbodh.github.io/blob/main/pics/successful_aging.svg)
 
 __Definition (from Zebra book)__
 
